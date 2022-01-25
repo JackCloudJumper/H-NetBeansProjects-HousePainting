@@ -1,6 +1,6 @@
 /*
  * Project: House Painting
- * Programmer: Grwgory Lee Wo
+ * Programmer: Gregory Lee Wo
  * Date: Feb 13 2020
  * Program: HousePainting.java
  * Description: To input the cost of paint and area to paint and output the
